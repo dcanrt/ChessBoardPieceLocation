@@ -1,7 +1,7 @@
 # ChessBoardPieceLocation
   Gebze Technical University Image processing course project.The project was created by 2 people.
 
-   <img src='Setler/overview.jpg' width=500>
+   <img src='Setler/overview.JPG' width=500>
    
 # Abstract
 It is a project that involves defining the chessboard from an image. The algorithm for defining the chessboard is based on locating the pieces on the board by uploading the 
